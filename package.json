@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.5",
+    "dotenv": "^16.4.5",
+    "ecpair": "^2.1.0",
+    "eslint": "^9.0.0",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^17.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "tiny-secp256k1": "^2.2.3",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "nodemon": "^3.1.0"
+  }
+}
