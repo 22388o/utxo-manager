@@ -8,5 +8,6 @@ export const getUtxoList = async ({addy}: {addy: string}) => {
         const resJson: any = await response.json()
         return resJson
     }
+
     return []
 }
